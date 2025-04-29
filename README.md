@@ -1,5 +1,34 @@
 # custom-registration-page
 
+## POP MART Custom Registration Form
+
+A custom registration page designed to manage high-volume participant sign-ups for a limited-capacity POP MART event.
+
+### Key Features:
+
+- **Participant Details Collection**  
+  Fields include:
+  - Name (as per IC/Passport)  
+  - Contact Number  
+  - Registered Email Address  
+  - Full NRIC/Passport Number (supports alphanumeric input)  
+  - Date of Birth  
+  - Country
+
+- **Validation Rules & Restrictions**
+  - Invalid or mismatched information (e.g., incorrect name or ID) will result in forfeiture of the assigned queue number
+  - Only **one registration per NRIC/Passport Number** is allowed
+  - **Children below 12 years old are not eligible to register**
+  - Email address must be valid and accessible, as the queue number is sent via email
+
+- **Capacity Control**
+  - System enforces a **2,000-person limit** for the event
+
+- **Admin Tools**
+  - Export page includes a **"Search" function** to filter and find records based on all available input fields
+
+[Watch Demo](https://youtu.be/doOUgJzmOZk)
+
 - [POP MART Custom Registration Form](https://youtu.be/doOUgJzmOZk)
 
 
