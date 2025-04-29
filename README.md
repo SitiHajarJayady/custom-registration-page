@@ -16,7 +16,6 @@ A custom registration page designed to manage high-volume participant sign-ups f
   - Country
 
 - **Validation Rules & Restrictions**
-  - Invalid or mismatched information (e.g., incorrect name or ID) will result in forfeiture of the assigned queue number
   - Only **one registration per NRIC/Passport Number** is allowed
   - **Children below 12 years old are not eligible to register**
   - Email address must be valid and accessible, as the queue number is sent via email
@@ -30,7 +29,6 @@ A custom registration page designed to manage high-volume participant sign-ups f
 [Watch Demo](https://youtu.be/doOUgJzmOZk)
 
 - [POP MART Custom Registration Form](https://youtu.be/doOUgJzmOZk)
-
 
 
 ## 99 Residence Final Third Round "Walk Through Lucky Draw" RSVP Form
