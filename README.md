@@ -26,8 +26,7 @@ A custom registration page designed to manage high-volume participant sign-ups f
 - **Admin Tools**
   - Export page includes a **"Search" function** to filter and find records based on all available input fields
 
-[Watch Demo](https://youtu.be/doOUgJzmOZk)
-
+Watch Demo
 - [POP MART Custom Registration Form](https://youtu.be/doOUgJzmOZk)
 
 
@@ -45,5 +44,5 @@ This custom RSVP form was built with a verification flow based on a unit owner m
 - **Step 3: Email Confirmation**  
   Upon successful submission, a confirmation email is sent to the registered participant.
 
-[Watch Demo](https://youtu.be/AaGb3dCh9XU)
+Watch Demo
 - [99 Residence Final Third Round "Walk Through Lucky Draw" RSVP Form](https://youtu.be/AaGb3dCh9XU)
