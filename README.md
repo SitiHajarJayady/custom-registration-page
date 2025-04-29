@@ -32,6 +32,7 @@ A custom registration page designed to manage high-volume participant sign-ups f
 
 Watch Demo
 - [POP MART Custom Registration Form](https://youtu.be/doOUgJzmOZk)
+- [Admin Search Page](https://youtu.be/IEX1V4aTfLE)
 
 
 ## 99 Residence Final Third Round "Walk Through Lucky Draw" RSVP Form
