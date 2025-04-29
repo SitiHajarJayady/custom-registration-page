@@ -23,6 +23,10 @@ A custom registration page designed to manage high-volume participant sign-ups f
 - **Capacity Control**
   - System enforces a **2,000-person limit** for the event
 
+- **Queue Management**
+  - Implemented a **database sequence** to auto-generate and assign queue numbers upon successful registration
+  - Ensures accurate, non-overlapping queue assignment even under high traffic
+    
 - **Admin Tools**
   - Export page includes a **"Search" function** to filter and find records based on all available input fields
 
